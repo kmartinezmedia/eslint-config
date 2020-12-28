@@ -4,8 +4,8 @@
   "description": "",
   "main": "lib/common.js",
   "files": [
-    "web.js",
-    "rn.js"
+    "lib/web.js",
+    "lib/rn.js"
   ],
   "dependencies": {
     "@react-native-community/eslint-config": "^2.0.0",
